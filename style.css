@@ -1,25 +1,33 @@
 header {
     height: 200px;
-    background-color: violet;
-
+    
+    background-image:url(https://f.i.uol.com.br/fotografia/2021/07/20/162679014360f6d9000011c_1626790143_3x2_rt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 main {
-    height: 200px;
-    background-color: blue;
+    height: 600px;
+    background-color: rgb(255, 252, 99);
 }
 
 aside {
-    height: 200px;
-    background-color: blueviolet;
+    height: 600px;
+    background-color: rgb(61, 201, 36);
 }
 
-aside section {
-    background-color: red;
-    height: 50px;
-}
+
 
 footer {
-    height: 180px;
-    background-color: yellowgreen;
+    height: 59px;
+    background-color: #84a2fc;
+}
+
+.imagemmain {
+    height: 350px;
+    margin-left: 26px;
+    margin-top: 100px;
+}
+#pp{
+    width: 200px;
 }
