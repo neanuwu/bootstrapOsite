@@ -31,3 +31,21 @@ footer {
 #pp{
     width: 200px;
 }
+
+.container {
+    display: flex;
+    align-items: center;
+   
+}
+main p {
+    text-align: left;
+    margin-right: 5px;
+}
+
+.header2 {
+    height: 200px;
+    
+    background-image:url(https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=6dab220c-3a71-4817-8a92-81f09e8f16ab);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
